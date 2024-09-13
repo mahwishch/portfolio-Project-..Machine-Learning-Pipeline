@@ -1,5 +1,6 @@
 Detailed Project Report: Predictive Model for Medical Charges
 Hugging Face Deployment URL: https://huggingface.co/spaces/mahwishH/MLPORTFOLIO
+docler URL: https://github.com/mahwishch/portfolio-Project-..Machine-Learning-Pipeline.git
 
 1. Project Overview
 The aim of this project is to build and deploy a predictive model to estimate medical charges based on various personal attributes such as age, BMI, smoking status, and region. The project involves several stages, including data preprocessing, model development, API creation, and deployment with a user interface.
