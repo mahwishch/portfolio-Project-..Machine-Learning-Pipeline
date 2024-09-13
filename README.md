@@ -1,5 +1,4 @@
-Detailed Project Report: 
-Predictive Model for Medical Charges
+Detailed Project Report: Predictive Model for Medical Charges
 Hugging Face Deployment URL: https://huggingface.co/spaces/mahwishH/MLPORTFOLIO
 
 1. Project Overview
